@@ -4,7 +4,7 @@ Grotle,2
 Torterra,12
 Chimchar,1
 Monferno,3
-Infernape,15
+**Infernape**,15
 Piplup,1
 Prinplup,4
 Empoleon,14
@@ -20,9 +20,9 @@ Luxio,1
 Luxray,4
 Abra,1
 Kadabra,2
-Alakazam,13
+**Alakazam**,13
 Magikarp,1
-Gyarados,12
+**Gyarados**,12
 Budew,1
 Roselia,4
 Roserade,11
@@ -69,7 +69,7 @@ Buneary,1
 Lopunny,2
 Gastly,1
 Haunter,3
-Gengar,13
+**Gengar**,13
 Misdreavus,2
 Mismagius,6
 Murkrow,8
@@ -92,14 +92,14 @@ Ponyta,1
 Rapidash,4
 Bonsly,1
 Sudowoodo,2
-Mime Jr.,1
+**Mime Jr.**,1
 Mr. Mime,3
 Happiny,1
-Chansey,12
+**Chansey**,12
 Blissey,10
 Cleffa,1
 Clefairy,4
-Clefable,15
+**Clefable**,15
 Chatot,1
 Pichu,1
 Pikachu,3
@@ -109,16 +109,16 @@ Noctowl,2
 Spiritomb,6
 Gible,1
 Gabite,2
-Garchomp,16
+**Garchomp**,16
 Munchlax,2
-Snorlax,10
+**Snorlax**,10
 Unown,2
 Riolu,2
 Lucario,9
 Wooper,1
 Quagsire,13
 Wingull,1
-Pelipper,11
+**Pelipper**,11
 Girafarig,2
 Hippopotas,2
 Hippowdon,12
@@ -135,7 +135,7 @@ Octillery,2
 Finneon,1
 Lumineon,1
 Tentacool,1
-Tentacruel,8
+**Tentacruel**,8
 Feebas,1
 Milotic,13
 Mantyke,1
@@ -146,7 +146,7 @@ Sneasel,4
 Weavile,13
 Uxie,9
 Mesprit,10
-Azelf,13
+**Azelf**,13
 "Rotom
 Rotom",
 "Rotom
@@ -160,28 +160,28 @@ Fan Rotom",
 "Rotom
 Mow Rotom",
 Gligar,9
-Gliscor,16
+**Gliscor**,16
 Nosepass,1
 Probopass,4
 Ralts,1
 Kirlia,1
-Gardevoir,10
+**Gardevoir**,10
 Gallade,9
 Lickitung,2
 Lickilicky,4
 Eevee,1
 Vaporeon,12
-Jolteon,10
+**Jolteon**,10
 Flareon,4
-Espeon,8
-Umbreon,9
+**Espeon**,8
+**Umbreon**,9
 Leafeon,4
 Glaceon,5
 Swablu,1
 Altaria,3
-Togepi,1
+**Togepi**,1
 Togetic,4
-Togekiss,15
+**Togekiss**,15
 Houndour,1
 Houndoom,3
 Magnemite,4
@@ -196,13 +196,13 @@ Rhyhorn,1
 Rhydon,5
 Rhyperior,7
 Duskull,1
-Dusclops,8
+**Dusclops**,8
 Dusknoir,5
 Porygon,1
-Porygon2,11
+**Porygon2**,11
 Porygon-Z,10
 Scyther,7
-Scizor,15
+**Scizor**,15
 Elekid,1
 Electabuzz,3
 Electivire,5
@@ -214,9 +214,9 @@ Piloswine,6
 Mamoswine,14
 Snorunt,1
 Glalie,2
-Froslass,6
+**Froslass**,6
 Absol,2
-Regirock,8
+**Regirock**,8
 Regice,8
 Registeel,9
 Regigigas,4
@@ -228,13 +228,13 @@ Galarian Form",
 Zapdos,12
 "Moltres
 Galarian Form",
-Moltres,10
+**Moltres**,10
 Grookey,1
 Thwackey,4
 Rillaboom,15
 Scorbunny,1
 Raboot,2
-Cinderace,16
+**Cinderace**,16
 Sobble,1
 Drizzile,1
 Inteleon,6
@@ -243,7 +243,7 @@ Dottler,2
 Orbeetle,5
 Caterpie,1
 Metapod,1
-Butterfree,2
+**Butterfree**,2
 Grubbin,1
 Charjabug,3
 Vikavolt,6
@@ -295,7 +295,7 @@ Budew,1
 Roselia,4
 Roserade,11
 Wingull,1
-Pelipper,11
+**Pelipper**,11
 Joltik,1
 Galvantula,8
 Electrike,1
@@ -314,10 +314,10 @@ Vanilluxe,6
 Swinub,1
 Piloswine,6
 Mamoswine,14
-Delibird,1
+**Delibird**,1
 Snorunt,1
 Glalie,2
-Froslass,6
+**Froslass**,6
 Baltoy,1
 Claydol,4
 Mudbray,1
@@ -342,11 +342,11 @@ Corphish,1
 Crawdaunt,11
 Nincada,1
 Ninjask,7
-Shedinja,6
+**Shedinja**,6
 Tyrogue,1
 Hitmonlee,8
 Hitmonchan,5
-Hitmontop,8
+**Hitmontop**,8
 Pancham,1
 Pangoro,6
 Klink,1
@@ -358,7 +358,7 @@ Bronzor,1
 Bronzong,9
 Ralts,1
 Kirlia,1
-Gardevoir,10
+**Gardevoir**,10
 Gallade,9
 Drifloon,1
 Drifblim,5
@@ -372,16 +372,16 @@ Tympole,1
 Palpitoad,3
 Seismitoad,7
 Duskull,1
-Dusclops,8
+**Dusclops**,8
 Dusknoir,5
 Machop,1
 Machoke,2
 Machamp,7
 Gastly,1
 Haunter,3
-Gengar,13
+**Gengar**,13
 Magikarp,1
-Gyarados,12
+**Gyarados**,12
 Goldeen,1
 Seaking,2
 Remoraid,1
@@ -410,7 +410,7 @@ Drilbur,1
 Excadrill,16
 Roggenrola,1
 Boldore,2
-Gigalith,7
+**Gigalith**,7
 Timburr,1
 Gurdurr,6
 Conkeldurr,13
@@ -446,10 +446,10 @@ Raichu,4
 Alolan Form",
 Eevee,1
 Vaporeon,12
-Jolteon,10
+**Jolteon**,10
 Flareon,4
-Espeon,8
-Umbreon,9
+**Espeon**,8
+**Umbreon**,9
 Leafeon,4
 Glaceon,5
 Sylveon,15
@@ -471,7 +471,7 @@ Wynaut,2
 Wobbuffet,4
 "Farfetch'd
 Galarian Form",
-Farfetch'd,1
+**Farfetch'd**,1
 Sirfetch'd,6
 Chinchou,1
 Lanturn,6
@@ -503,8 +503,8 @@ Hattrem,2
 Hatterene,11
 Salandit,1
 Salazzle,11
-Pawniard,2
-Bisharp,10
+**Pawniard**,2
+**Bisharp**,10
 Throh,3
 Sawk,4
 Koffing,1
@@ -515,14 +515,14 @@ Bonsly,1
 Sudowoodo,2
 Cleffa,1
 Clefairy,4
-Clefable,15
-Togepi,1
+**Clefable**,15
+**Togepi**,1
 Togetic,4
-Togekiss,15
+**Togekiss**,15
 Munchlax,2
-Snorlax,10
-Cottonee,4
-Whimsicott,8
+**Snorlax**,10
+**Cottonee**,4
+**Whimsicott**,8
 Rhyhorn,1
 Rhydon,5
 Rhyperior,7
@@ -553,21 +553,21 @@ Inkay,1
 Malamar,5
 Sneasel,4
 Weavile,13
-Sableye,11
+**Sableye**,11
 Mawile,4
 Maractus,2
 Sigilyph,9
 Riolu,2
 Lucario,9
 Torkoal,10
-Mimikyu,10
+**Mimikyu**,10
 Cufant,1
 Copperajah,6
 Qwilfish,6
 Frillish,1
-Jellicent,8
+**Jellicent**,8
 Mareanie,2
-Toxapex,17
+**Toxapex**,17
 Cramorant,2
 Toxel,1
 Toxtricity,9
@@ -582,7 +582,7 @@ Heliolisk,7
 Hawlucha,13
 Trapinch,2
 Vibrava,1
-Flygon,8
+**Flygon**,8
 Axew,1
 Fraxure,2
 Haxorus,12
@@ -593,7 +593,7 @@ Runerigus,6
 Cofagrigus,8
 Honedge,1
 Doublade,7
-Aegislash,15
+**Aegislash**,15
 "Ponyta
 Galarian Form",
 Ponyta,1
@@ -632,7 +632,7 @@ Dhelmise,6
 Lapras,7
 Lunatone,2
 Solrock,2
-Mime Jr.,1
+**Mime Jr.**,1
 "Mr. Mime
 Galarian Form",
 Mr. Mime,3
@@ -666,20 +666,20 @@ Frost Rotom",
 Fan Rotom",
 "Rotom
 Mow Rotom",
-Ditto,13
+**Ditto**,13
 Dracozolt,12
 Arctozolt,9
-Dracovish,13
+**Dracovish**,13
 Arctovish,7
 Charmander,1
 Charmeleon,2
-Charizard,6
+**Charizard**,6
 Type: Null,7
 "Silvally
 Type: Normal",
 Larvitar,1
 Pupitar,2
-Tyranitar,14
+**Tyranitar**,14
 Deino,1
 Zweilous,2
 Hydreigon,14
@@ -691,8 +691,8 @@ Hakamo-o,2
 Kommo-o,16
 Dreepy,1
 Drakloak,2
-Dragapult,19
-Regirock,8
+**Dragapult**,19
+**Regirock**,8
 Regice,8
 Registeel,9
 Regigigas,4
@@ -710,20 +710,20 @@ Galarian Form",
 Zapdos,12
 "Moltres
 Galarian Form",
-Moltres,10
+**Moltres**,10
 Cobalion,11
 Terrakion,16
 Virizion,8
 Tapu Koko,17
-Tapu Lele,13
+**Tapu Lele**,13
 Tapu Bulu,
 Tapu Fini,15
 Raikou,13
-Entei,14
-Suicune,15
+**Entei**,14
+**Suicune**,15
 Uxie,9
 Mesprit,10
-Azelf,13
+**Azelf**,13
 Rowlet,1
 Dartrix,1
 "Decidueye
@@ -753,10 +753,10 @@ Ponyta,1
 Rapidash,4
 Eevee,1
 Vaporeon,12
-Jolteon,10
+**Jolteon**,10
 Flareon,4
-Espeon,8
-Umbreon,9
+**Espeon**,8
+**Umbreon**,9
 Leafeon,4
 Glaceon,5
 Sylveon,15
@@ -778,7 +778,7 @@ Golem,2
 Stantler,2
 Wyrdeer,5
 Munchlax,2
-Snorlax,10
+**Snorlax**,10
 Paras,1
 Parasect,2
 Pichu,1
@@ -786,10 +786,10 @@ Pikachu,3
 Raichu,4
 Abra,1
 Kadabra,2
-Alakazam,13
+**Alakazam**,13
 Chimchar,1
 Monferno,3
-Infernape,15
+**Infernape**,15
 Buneary,1
 Lopunny,2
 Cherubi,1
@@ -800,21 +800,21 @@ Combee,1
 Vespiquen,2
 Scyther,7
 Kleavor,14
-Scizor,15
+**Scizor**,15
 Heracross,8
-Mime Jr.,1
+**Mime Jr.**,1
 Mr. Mime,3
 Aipom,1
 Ambipom,9
 Magikarp,1
-Gyarados,12
+**Gyarados**,12
 Shellos,1
 Gastrodon,13
 "Qwilfish
 Hisuian Form",
 Overqwil,11
 Happiny,1
-Chansey,12
+**Chansey**,12
 Blissey,10
 Budew,1
 Roselia,4
@@ -831,7 +831,7 @@ Croagunk,1
 Toxicroak,5
 Ralts,1
 Kirlia,1
-Gardevoir,10
+**Gardevoir**,10
 Gallade,9
 Yanma,1
 Yanmega,6
@@ -857,18 +857,18 @@ Bonsly,1
 Sudowoodo,2
 Lickitung,2
 Lickilicky,4
-Togepi,1
+**Togepi**,1
 Togetic,4
-Togekiss,15
+**Togekiss**,15
 Turtwig,1
 Grotle,2
 Torterra,12
 Porygon,1
-Porygon2,11
+**Porygon2**,11
 Porygon-Z,10
 Gastly,1
 Haunter,3
-Gengar,13
+**Gengar**,13
 Spiritomb,6
 Murkrow,8
 Honchkrow,6
@@ -891,7 +891,7 @@ Machoke,2
 Machamp,7
 Chatot,1
 Duskull,1
-Dusclops,8
+**Dusclops**,8
 Dusknoir,5
 Piplup,1
 Prinplup,4
@@ -911,7 +911,7 @@ Ninetales,9
 "Ninetales
 Alolan Form",
 Tentacool,1
-Tentacruel,8
+**Tentacruel**,8
 Finneon,1
 Lumineon,1
 Magby,1
@@ -926,10 +926,10 @@ Elekid,1
 Electabuzz,3
 Electivire,5
 Gligar,9
-Gliscor,16
+**Gliscor**,16
 Gible,1
 Gabite,2
-Garchomp,16
+**Garchomp**,16
 Nosepass,1
 Probopass,4
 "Voltorb
@@ -954,7 +954,7 @@ Misdreavus,2
 Mismagius,6
 Cleffa,1
 Clefairy,4
-Clefable,15
+**Clefable**,15
 "Sneasel
 Hisuian Form",
 Sneasel,4
@@ -962,7 +962,7 @@ Sneasler,18
 Weavile,13
 Snorunt,1
 Glalie,2
-Froslass,6
+**Froslass**,6
 Cranidos,1
 Rampardos,5
 Shieldon,1
